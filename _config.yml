@@ -103,5 +103,5 @@ theme: meow
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://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@github.com/ViviAnY121/anyideng.git
+  repo: https://github.com/ViviAnY121/anyideng.git
   branch: gh-pages   # 或 main，取决于你的设置
