@@ -91,7 +91,7 @@ banner:
   # Banner title
   title:
     enable: true # Whether to show title
-    text: 「 MEOW 」 # Title text
+    text: 「 짱 」 # Title text
   # Banner subtitle at homepage
   subtitle:
     enable: false # Whether to show subtitle
